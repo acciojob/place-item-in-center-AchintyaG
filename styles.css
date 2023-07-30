@@ -1,7 +1,7 @@
 #item-1{
 	display:flex;	
-	margin:auto;
-	padding:auto;
+	margin:100px;
+	padding:100px;
 	font-size:100px;
 	justify-content: center;
 	align-content: center;
