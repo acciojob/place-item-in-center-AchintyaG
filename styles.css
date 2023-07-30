@@ -1,5 +1,7 @@
 #item-1{
 	display:flex;	
+	margin:auto;
+	padding:auto;
 	font-size:100px;
 	justify-content: center;
 	align-content: center;
